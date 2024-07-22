@@ -1,15 +1,15 @@
 # Machine-learning-project
-The goal of this project is to build and critically analyse Machine Learning methods, to predict the rating of some movies extracted from the TMDB database.
-Submit_Luxi_Bai.ipynb is my python project file
-A2-Data_files is training data set
-Kaggle_Supervised_*.csv is my Kaggle test files 
+## The goal of this project is to build and critically analyse Machine Learning methods, to predict the rating of some movies extracted from the TMDB database.
+## Submit_Luxi_Bai.ipynb is my python project file
+## A2-Data_files is training data set
+## Kaggle_Supervised_*.csv is my Kaggle test files 
 ==========================
 
-Submit_Luxi_Bai.ipynb: 
-Assignment 2: Predict the Rating of Movies Extracted from the TMDB Database.
+## Submit_Luxi_Bai.ipynb: 
+## Assignment 2: Predict the Rating of Movies Extracted from the TMDB Database.
 ==========================
-Name：Luxi Bai
-Number: 1527822
+## Name：Luxi Bai
+## Number: 1527822
 ==========================
 
 
