@@ -4,7 +4,6 @@
 ## A2-Data_files is training data set
 ## Kaggle_Supervised_*.csv is my Kaggle test files 
 ==========================
-
 ## Submit_Luxi_Bai.ipynb: 
 ## Assignment 2: Predict the Rating of Movies Extracted from the TMDB Database.
 ==========================
